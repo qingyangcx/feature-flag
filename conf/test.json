@@ -1,0 +1,14 @@
+{
+    "loggerConfig": {
+        "filePath": "/log/feature.log"
+    },
+    "featureFlag": {
+        "port": 8000
+    },
+    "database": {
+        "url": "127.0.0.1:3306",
+        "db": "feature_flag",
+        "user": "root",
+        "password": "admin"
+    }
+}
